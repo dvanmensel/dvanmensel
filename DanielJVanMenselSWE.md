@@ -1,7 +1,7 @@
 # Daniel J. Van Mensel
 
 Hudson, FL 34667\
-📧 [DVanMensel@gmail.com](mailto\:DVanMensel@gmail.com) | 📞 (727) 457-6809\
+📧 [DVanMensel@gmail.com](mailto\:DVanMensel@gmail.com)\
 🔗 LinkedIn: [https://www.linkedin.com/in/daniel-van-mensel-16a7b622/](https://www.linkedin.com/in/daniel-van-mensel-16a7b622/)\
 🌐 Portfolio: [https://sites.google.com/site/danielvanmensel/](https://sites.google.com/site/danielvanmensel/)\
 💻 HackerRank: [https://www.hackerrank.com/profile/dvanmensel](https://www.hackerrank.com/profile/dvanmensel)\
